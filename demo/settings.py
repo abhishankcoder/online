@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'demo.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
-
+# postgres://hnyadbhbmwaakv:ff5ff7422da724556d6e83cc71589ea30e9485a52307b228174d671402cb5996@ec2-44-206-11-200.compute-1.amazonaws.com:5432/d656dubf61vdr6
 
 DATABASES = {
     'default': {
